@@ -1,7 +1,6 @@
 import json
 import requests
 
-import os
 from pathlib import Path
 from dotenv import dotenv_values
 

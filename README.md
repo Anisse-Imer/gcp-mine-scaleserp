@@ -1,4 +1,16 @@
-Sources :
+# Lancer les scripts
+```
+pip install -r requirements.txt
+### SERP ###
+cd serp-mine/
+cp model.env .env
+# Puis ajouter la clee API
+python3 main.py
+### SCRAPY ###
+cd ycombinator-scrapy/
+python3 ycombinator_scrap.py
+```
+## Sources :
 - Part 1 :
     - https://docs.scrapy.org/en/latest/intro/tutorial.html
     - https://news.ycombinator.com
