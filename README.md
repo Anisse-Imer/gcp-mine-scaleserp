@@ -16,4 +16,5 @@ Sources :
     - https://stackoverflow.com/questions/39109817/cannot-access-field-in-big-query-with-type-arraystructhitnumber-int64-time-in
     - https://cloud.google.com/bigquery/docs/reference/standard-sql/timestamp_functions#extract
     - https://cloud.google.com/bigquery/docs/reference/standard-sql/date_functions#extract
-    - 
+    - https://cloud.google.com/bigquery/docs/reference/standard-sql/window-function-calls
+    - https://cloud.google.com/bigquery/docs/reference/standard-sql/window-function-calls
