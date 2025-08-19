@@ -1,0 +1,446 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 5,
+        "credits_remaining": 95,
+        "credits_used_this_request": 1
+    },
+    "search_parameters": {
+        "q": "domino\u2019s pizza",
+        "location": "Paris,Paris,Ile-de-France,France",
+        "page": "1",
+        "num": "20",
+        "device_type": "mobile",
+        "google_domain": "google.com",
+        "engine": "google"
+    },
+    "search_metadata": {
+        "created_at": "2025-08-19T08:35:54.485Z",
+        "processed_at": "2025-08-19T08:36:04.160Z",
+        "total_time_taken": 9.68,
+        "engine_url": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U&gl=fr&hl=fr&num=20",
+        "html_url": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s+pizza&location=Paris%2CParis%2CIle-de-France%2CFrance&page=1&num=20&device_type=mobile&google_domain=google.com&engine=google&output=html",
+        "json_url": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s+pizza&location=Paris%2CParis%2CIle-de-France%2CFrance&page=1&num=20&device_type=mobile&google_domain=google.com&engine=google&output=json",
+        "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Paris,Paris,Ile-de-France,France'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'."
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "block_position": 3,
+            "title": "Domino's Pizza, livraison et \u00e0 emporter, commande en ligne",
+            "link": "https://www.dominos.fr/",
+            "domain": "www.dominos.fr",
+            "displayed_link": "https://www.dominos.fr",
+            "snippet": "Domino's Pizza, le sp\u00e9cialiste de la pizza \u00e0 emporter ou en livraison \u00e0 domicile. Toutes les valeurs nutritionnelles sont issues de calculs th\u00e9oriques (sur une ...",
+            "prerender": false,
+            "sitelinks": {
+                "expanded": [
+                    {
+                        "title": "Les Promos",
+                        "link": "https://www.dominos.fr/les-promos",
+                        "snippet": "TROUVER VOTRE MAGASIN DOMINO'S ... Profitez d'une ..."
+                    },
+                    {
+                        "title": "Menus Menu",
+                        "link": "https://www.dominos.fr/la-carte/?menu.lespromos",
+                        "snippet": "Nouveaut\u00e9s & Bestsellers. Cheesy Meatballs. Sauce tomate ..."
+                    },
+                    {
+                        "title": "Cambronne",
+                        "link": "https://www.dominos.fr/magasin//paris-15-cambronne_75015",
+                        "snippet": "Domino's Pizza Paris 15 - Cambronne ; lundi 11:30 - 14 ..."
+                    },
+                    {
+                        "title": "Paris",
+                        "link": "https://www.dominos.fr/regions/ile-de-france/paris",
+                        "snippet": "Domino's Pizza, sp\u00e9cialiste de la pizza \u00e0 Paris, vous laisse le ..."
+                    },
+                    {
+                        "title": "Paris 2",
+                        "link": "https://www.dominos.fr/magasin//paris-2_75002",
+                        "snippet": "Les promos de votre Domino's ; Livraison. 2 Pizzas \u00e0 partir de ..."
+                    }
+                ]
+            },
+            "sitelinks_search_box": false
+        },
+        {
+            "position": 2,
+            "block_position": 5,
+            "title": "Domino's Pizza",
+            "link": "https://www.facebook.com/DominosParis20Avron/?locale=fr_FR",
+            "domain": "www.facebook.com",
+            "displayed_link": "Plus de 190\u00a0abonn\u00e9s",
+            "snippet": "On t'offre cette belle pizza Margherita d\u00e8s 20\u20ac d'achat en livraison . Offre exclusivement en ligne sur wwww.Dominos.fr Code : 4671.",
+            "prerender": false
+        },
+        {
+            "position": 3,
+            "block_position": 6,
+            "title": "Domino's pizza \u00e0 Paris (75)",
+            "link": "https://www.pagesjaunes.fr/annuaire/paris-75/dominos-pizza",
+            "domain": "www.pagesjaunes.fr",
+            "displayed_link": "https://www.pagesjaunes.fr \u203a paris-75 \u203a dominos-pizza",
+            "snippet": " Domino's Pizza Paris 2 Domino's Pizza5/5.0(4) Domino's Pizza Paris 12 Bizot Domino's Pizza Paris 20 Belleville (function(){ (this||self).Bqpk9e=function(f,d,n,e,k,p){var g=document.getElementById(f);if(g&&(g.offsetWidth!==0||g.offsetHeight!==0)){var l=g.querySelector(\"div\"),h=l.querySelector(\"div\"),a=0;f=Math.max(l.scrollWidth-l.offsetWidth,0);if(d>0&&(h=h.children,a=h[d].offsetLeft-h[0].offsetLeft,e)){for(var m=a=0;m Domino's Pizza Paris 2 Domino's Pizza5/5.0(4) Domino's Pizza Paris 12 Bizot Domino's Pizza Paris 20 Belleville (function(){ (this||self).Bqpk9e=function(f,d,n,e,k,p){var g=document.getElementById(f);if(g&&(g.offsetWidth!==0||g.offsetHeight!==0)){var l=g.querySelector(\"div\"),h=l.querySelector(\"div\"),a=0;f=Math.max(l.scrollWidth-l.offsetWidth,0);if(d>0&&(h=h.children,a=h[d].offsetLeft-h[0].offsetLeft,e)){for(var m=a=0;m Domino's Pizza Paris 2 Domino's Pizza5/5.0(4) Domino's Pizza Paris 12 Bizot Domino's Pizza Paris 20 Belleville (function(){ (this||self).Bqpk9e=function(f,d,n,e,k,p){var g=document.getElementById(f);if(g&&(g.offsetWidth!==0||g.offsetHeight!==0)){var l=g.querySelector(\"div\"),h=l.querySelector(\"div\"),a=0;f=Math.max(l.scrollWidth-l.offsetWidth,0);if(d>0&&(h=h.children,a=h[d].offsetLeft-h[0].offsetLeft,e)){for(var m=a=0;m Domino's Pizza Paris 2 Domino's Pizza5/5.0(4) Domino's Pizza Paris 12 Bizot Domino's Pizza Paris 20 Belleville (function(){ (this||self).Bqpk9e=function(f,d,n,e,k,p){var g=document.getElementById(f);if(g&&(g.offsetWidth!==0||g.offsetHeight!==0)){var l=g.querySelector(\"div\"),h=l.querySelector(\"div\"),a=0;f=Math.max(l.scrollWidth-l.offsetWidth,0);if(d>0&&(h=h.children,a=h[d].offsetLeft-h[0].offsetLeft,e)){for(var m=a=0;m Domino's Pizza Paris 2 Domino's Pizza5/5.0(4) Domino's Pizza Paris 12 Bizot Domino's Pizza Paris 20 Belleville Domino's Pizza Paris 2 Domino's Pizza5/5.0(4) Domino's Pizza Paris 12 Bizot Domino's Pizza Paris 20 Belleville Domino's Pizza Paris 2 Domino's Pizza Paris 2 Domino's Pizza Paris 2Domino's Pizza Paris 2Domino's Pizza Paris 2Domino's Pizza Paris 2 Domino's Pizza5/5.0(4) Domino's Pizza5/5.0(4) Domino's Pizza5/5.0(4)Domino's Pizza5/5.0(4)Domino's Pizza5/5.0(4)Domino's Pizza5/5.0(4) Domino's Pizza Paris 12 Bizot Domino's Pizza Paris 12 Bizot Domino's Pizza Paris 12 BizotDomino's Pizza Paris 12 BizotDomino's Pizza Paris 12 BizotDomino's Pizza Paris 12 Bizot Domino's Pizza Paris 20 Belleville Domino's Pizza Paris 20 Belleville Domino's Pizza Paris 20 BellevilleDomino's Pizza Paris 20 BellevilleDomino's Pizza Paris 20 BellevilleDomino's Pizza Paris 20 Belleville",
+            "prerender": false
+        },
+        {
+            "position": 4,
+            "block_position": 7,
+            "title": "Domino's Pizza",
+            "link": "https://fr.wikipedia.org/wiki/Domino%27s_Pizza",
+            "domain": "fr.wikipedia.org",
+            "displayed_link": "https://fr.wikipedia.org \u203a wiki \u203a Domino's_Pizza",
+            "snippet": "Domino's Pizza est une multinationale am\u00e9ricaine de la restauration rapide sp\u00e9cialis\u00e9e dans la pr\u00e9paration et la livraison de pizza. Domino's Pizza. logo de ...",
+            "prerender": false
+        },
+        {
+            "position": 5,
+            "block_position": 8,
+            "title": "Domino's Pizza | Paris",
+            "link": "https://www.facebook.com/DominosParis2/?locale=fr_FR",
+            "domain": "www.facebook.com",
+            "displayed_link": "Plus de 840\u00a0abonn\u00e9s",
+            "snippet": "Paris 2, vous allez adorer la pizza du moment ! Boulettes de b\u0153uf, merguez, jalape\u00f1os, oignons, mozzarella et sauce tomate : un mariage explosif de ...",
+            "prerender": false
+        },
+        {
+            "position": 6,
+            "block_position": 9,
+            "title": "DOMINO'S PIZZA PUTEAUX - 82 Rue Jean Jaur\u00e8s",
+            "link": "https://www.tripadvisor.fr/Restaurant_Review-g196586-d5895318-Reviews-Domino_s_Pizza-Puteaux_La_Defense_Hauts_de_Seine_Ile_de_France.html",
+            "domain": "www.tripadvisor.fr",
+            "displayed_link": "https://www.tripadvisor.fr \u203a ... \u203a Restaurants Puteaux",
+            "snippet": "Dominos reste une valeur s\u00fbre pour ce qui est \u00e0 emporter. La livraison, assur\u00e9ment c'est le loto... Large choix de pizzas et tarifs abordables (1 achet\u00e9e = 1 ...",
+            "prerender": false
+        },
+        {
+            "position": 7,
+            "block_position": 10,
+            "title": "Domino's Pizza Paris - Restaurant (adresse, horaires, avis ...",
+            "link": "https://www.pagesjaunes.fr/pros/06549918",
+            "domain": "www.pagesjaunes.fr",
+            "displayed_link": "https://www.pagesjaunes.fr \u203a ... \u203a Restaurants \u00e0 Paris",
+            "snippet": "Domino's Pizza est ouvert : Le Lundi de 11:30 \u00e0 14:30 et de 18:00 \u00e0 23:00; Le Mardi de 11:30 \u00e0 14:30 et de 18:00 \u00e0 23:00; Le Mercredi de 11:30 \u00e0 14:30 et de 18: ...",
+            "prerender": false
+        },
+        {
+            "position": 8,
+            "block_position": 11,
+            "title": "DOMINO'S PIZZA PARIS 2 - 14 Rue Saint-marc, Vivienne",
+            "link": "https://fr.tripadvisor.be/Restaurant_Review-g187147-d15290586-Reviews-Domino_s_Pizza-Paris_Ile_de_France.html",
+            "domain": "fr.tripadvisor.be",
+            "displayed_link": "https://fr.tripadvisor.be \u203a ... \u203a Paris \u203a Restaurants Paris",
+            "snippet": "15 janv. 2025 \u2014 Fond\u00e9e en 1960 dans le Michigan, Domino's Pizza est aujourd'hui le leader de la pizza livr\u00e9e et \u00e0 emporter. Des recettes incontournables ...",
+            "prerender": false,
+            "date": "15 janv. 2025",
+            "date_utc": "2025-01-15T00:00:00.000Z"
+        },
+        {
+            "position": 9,
+            "block_position": 12,
+            "title": "Domino's Pizza, 97 Rue Didot, Paris, 75014, FR",
+            "link": "https://www.mapquest.com/fr/dominos-pizza-543174555",
+            "domain": "www.mapquest.com",
+            "displayed_link": "https://www.mapquest.com \u203a dom...",
+            "snippet": "Fond\u00e9e en 1960 dans le Michigan, Domino's Pizza est aujourd'hui le leader de la pizza livr\u00e9e et \u00e0 emporter. Des recettes incontournables telles que la Cannibale ...",
+            "prerender": false
+        },
+        {
+            "position": 10,
+            "block_position": 13,
+            "title": "Domino's Pizza \u00e0 Neuilly Plaisance",
+            "link": "https://www.118712.fr/professionnels/WkNVXlZcGgQ",
+            "domain": "www.118712.fr",
+            "displayed_link": "https://www.118712.fr \u203a restaurants",
+            "snippet": "SIREN: 841622038. Forme juridique: 5710. Cr\u00e9ation d'entreprise: 10 ao\u00fbt 2018. Effectif de l'entreprise: 20 \u00e0 49 salari\u00e9s. Autres d\u00e9nominations: Domino's ...",
+            "prerender": false
+        },
+        {
+            "position": 11,
+            "block_position": 14,
+            "title": "Escroquerie \u00e0 Domino's Pizza : les enseignes d'H\u00e9nin- ...",
+            "link": "https://www.lavoixdunord.fr/1612675/article/2025-08-05/escroquerie-domino-s-pizza-les-enseignes-d-henin-beaumont-et-douai-rouvertes",
+            "domain": "www.lavoixdunord.fr",
+            "displayed_link": "https://www.lavoixdunord.fr \u203a ... \u203a Lens - Li\u00e9vin - H\u00e9nin",
+            "snippet": "5 ao\u00fbt 2025 \u2014 Les 24 salari\u00e9s des antennes d'H\u00e9nin-Beaumont et Douai ont \u00e9t\u00e9 conserv\u00e9s apr\u00e8s l'affaire d'escroquerie \u00e0 un million d'euros d\u00e9tourn\u00e9s par ...",
+            "prerender": false,
+            "date": "5 ao\u00fbt 2025",
+            "date_utc": "2025-08-05T00:00:00.000Z"
+        },
+        {
+            "position": 12,
+            "block_position": 16,
+            "title": "Pizza Restaurants Near Me - Find a Nearby Domino's",
+            "link": "https://www.dominos.com/en/restaurants",
+            "domain": "www.dominos.com",
+            "displayed_link": "https://www.dominos.com \u203a resta...",
+            "snippet": "Simply type in your address and we'll magically show you your closest Domino's. To easily find a local Domino's Pizza restaurant or when searching for \"pizza ...",
+            "prerender": false
+        },
+        {
+            "position": 13,
+            "block_position": 17,
+            "title": "Domino's Pizza \u00e0 proximit\u00e9 - Localisation, Horaires",
+            "link": "https://fr.mappy.com/app/dominos-pizza",
+            "domain": "fr.mappy.com",
+            "displayed_link": "https://fr.mappy.com \u203a Mappy Plan",
+            "snippet": "Domino's Pizza \u00b7 Domino's Pizza Saint-Gervais-la-For\u00eat. 71 Route Nationale, 41350 Saint-Gervais-la-For\u00eat \u00b7 Domino's Pizza. 14 r Victor Hugo, 35600 Redon.",
+            "prerender": false
+        },
+        {
+            "position": 14,
+            "block_position": 19,
+            "title": "Domino's Pizza Inc (DPZ)",
+            "link": "https://fr.investing.com/equities/dominos-pizza-inc",
+            "domain": "fr.investing.com",
+            "displayed_link": "https://fr.investing.com \u203a equities \u203a dominos-pizza-inc",
+            "snippet": "Le cours de l'action Dominos Pizza aujourd'hui est de 451,26. Quel est le symbole boursier de l'action Domino's Pizza Inc ? Le symbole boursier de Dominos Pizza ...",
+            "prerender": false
+        },
+        {
+            "position": 15,
+            "block_position": 20,
+            "title": "Domino's Home Page - Domino's Pizza, Order Pizza Online ...",
+            "link": "https://www.dominospizza.com.uy/index.html",
+            "domain": "www.dominospizza.com.uy",
+            "displayed_link": "https://www.dominospizza.com.uy",
+            "prerender": false
+        }
+    ],
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Domino's Pizza Paris 2",
+            "gps_coordinates": {
+                "latitude": 48.870483,
+                "longitude": 2.340697
+            },
+            "link": "https://www.dominos.fr/?utm_source=google&utm_medium=local&utm_campaign=yext",
+            "snippet": "Repas sur place&middot;Vente \u00e0 emporter&middot;Livraison sans contact",
+            "address": "14 Rue Saint-Marc",
+            "business_type": "Domino's Pizza Paris 2",
+            "phone": "01 44 76 04 04",
+            "data_cid": "4378183288194061942",
+            "extensions": [
+                "14 Rue Saint-Marc &middot; 01 44 76 04 04",
+                "Ferm\u00e9 \u22c5 Ouvre \u00e0 11:30",
+                "Repas sur place&middot;Vente \u00e0 emporter&middot;Livraison sans contact"
+            ],
+            "block_position": 4
+        },
+        {
+            "position": 2,
+            "title": "Domino's Pizza Paris 20 - Belleville",
+            "gps_coordinates": {
+                "latitude": 48.873714,
+                "longitude": 2.3871396
+            },
+            "link": "https://www.dominos.fr/?utm_source=google&utm_medium=local&utm_campaign=yext",
+            "snippet": "Repas sur place&middot;Vente \u00e0 emporter&middot;Livraison sans contact",
+            "address": "391 Rue des Pyr\u00e9n\u00e9es",
+            "business_type": "Domino's Pizza Paris 20 - Belleville",
+            "phone": "01 43 58 11 11",
+            "data_cid": "1542624597583278712",
+            "extensions": [
+                "391 Rue des Pyr\u00e9n\u00e9es &middot; 01 43 58 11 11",
+                "Ouvre bient\u00f4t \u22c5 11:00",
+                "Repas sur place&middot;Vente \u00e0 emporter&middot;Livraison sans contact"
+            ],
+            "block_position": 4
+        },
+        {
+            "position": 3,
+            "title": "Domino's Pizza Paris 12 - Charenton",
+            "gps_coordinates": {
+                "latitude": 48.841442,
+                "longitude": 2.3868368
+            },
+            "link": "https://www.dominos.fr/?utm_source=google&utm_medium=local&utm_campaign=yext",
+            "snippet": "Repas sur place&middot;Vente \u00e0 emporter&middot;Livraison sans contact",
+            "address": "204 Rue de Charenton",
+            "business_type": "Domino's Pizza Paris 12 - Charenton",
+            "phone": "01 40 19 09 09",
+            "data_cid": "6281292485243707257",
+            "extensions": [
+                "204 Rue de Charenton &middot; 01 40 19 09 09",
+                "Ferm\u00e9 \u22c5 Ouvre \u00e0 11:30",
+                "Repas sur place&middot;Vente \u00e0 emporter&middot;Livraison sans contact"
+            ],
+            "block_position": 4
+        }
+    ],
+    "knowledge_graph": {
+        "id": "/g/11y3_cmxz",
+        "title": "Afficher les r\u00e9sultats pour",
+        "block_position": 2
+    },
+    "search_refinement": {
+        "items": [
+            {
+                "title": "CARTE",
+                "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+CARTE&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzpEltcj72fDuMg3PshJyYbQV1wLv6svEuKLD9O5eDl2q7uc6uLFjtSpxbKgN7M4uBsa7Jsm90in-CyhWjrBNdJKl6FRn9C1OnJ7jy_oTI1MeEMXPzGo3kV7bNKajAD24q3Do9NiPDgYVkFqgZDZRwF7AsfKuS1kDByGCZB4gym4BVU2cOtlP29p5iSKOmdLYRgsHRDntBPKtlVLCZ5GQih5mMJmd-XiQFoeASJ0-6n5Crd1mB&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQxKsJKAB6BAgiEAE&ictx=0",
+                "block_position": 1
+            },
+            {
+                "title": "Menu",
+                "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+menu&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzPL59JAd9gTtHLR-mSSIx2LLEsT5sLIxTu2y56GnfK_u9iRwvOVQ1PPUM4VQ5uqIe48rUwZSw76lbFYcklkFkKts4GexdfVWkutG2DqmfYiE7AG7ew54C8bHlMbTnAMfAcHR_TssslTymgPXnnf8Jad4lqf7aIhsPAaTgMTHxfSxUiR59IX0Yauy3tlbuJbahz4lh6Q4HbqggIq-Rt5EtzzH4igIGz5Sm_ybdHCvWBvbG3oHV&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQxKsJKAF6BAgnEAE&ictx=0",
+                "block_position": 1
+            },
+            {
+                "title": "Ouvert actuellement",
+                "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=domino%E2%80%99s+pizza+ouvert+actuellement&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzSOxlYg4Qu5-1FN7szJK8Xh2pUkzrvEy-zHcYLLqqnGBCTSydv-9jJBBHifLe9KQL7butXV61xNRLi_KkF1h6pCBk7Z6qrrQOHXBZSA3RoBSZkMwKRH2aPne6YjXv6csFl0gObUHZWKOKMsNCCiXUmTKKiKptKwV34xaLCLVSUAsZYCsww7eUp1krQJNE9lMkzoqmXQ&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQxKsJKAJ6BAglEAE&ictx=0",
+                "block_position": 1
+            },
+            {
+                "title": "Photos",
+                "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+photos&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzw8RbmzKJ4VmjRluCDGP3V-CNSwYSEEvOna1sSgp6e1EwaxKQ5D7dfGXKSuYLLezZm7yAFBKsBMQYbxa1TrzLoZSn1BSs7cDXLjwhB7tt0nkHPeQCBJo3u3q5MevEvv8kc5hpfMxM0prdvChxzXdERchBS9ww8doYeUSQ9V0FO5YnlQL5mrxiXQk9tysWMWyPT2RAIZyMqeeVGulDU2R49fHgqv-WmDpa0OIAQV_wa26e8Lh3&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQxKsJKAN6BAgmEAE&ictx=0",
+                "block_position": 1
+            },
+            {
+                "title": "Halal",
+                "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+Halal&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzpEltcj72fDuMg3PshJyYbQV1wLv6svEuKLD9O5eDl2o6Z5guvgSCbciXs0sS-1TSuuOqkKI2esxEVKfXynUBi1-AoJONmAvyW9hT-BjNb06f74Huncue3rRSdb6a20CTSx5QvK59k2dV4auFzyrpiibg_XYDP9lUb7uAXAYOjNNdrgrKUbbbRCy11TZGoqr3qF3uTgtp0MV4KYf-Q8g8wp3k0NXrdNfIidNR7opOBdTi-PtR&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQxKsJKAR6BAgkEAE&ictx=0",
+                "block_position": 1
+            }
+        ]
+    },
+    "related_searches": [
+        {
+            "query": "Domino's Pizza CARTE",
+            "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+CARTE&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ1QJ6BAhjEAE",
+            "block_position": 21
+        },
+        {
+            "query": "Domino's Pizza menu",
+            "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+menu&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ1QJ6BAhqEAE",
+            "block_position": 21
+        },
+        {
+            "query": "Domino's Pizza Paris",
+            "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+Paris&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ1QJ6BAhpEAE",
+            "block_position": 21
+        },
+        {
+            "query": "Domino's Pizza Halal",
+            "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+Halal&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ1QJ6BAhnEAE",
+            "block_position": 21
+        },
+        {
+            "query": "Domino's Pizza promo",
+            "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+promo&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ1QJ6BAhlEAE",
+            "block_position": 21
+        },
+        {
+            "query": "Domino's Pizza tarif",
+            "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+tarif&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ1QJ6BAhmEAE",
+            "block_position": 21
+        },
+        {
+            "query": "Domino's Pizza Saint-Germain-en-Laye",
+            "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+Saint-Germain-en-Laye&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ1QJ6BAhoEAE",
+            "block_position": 21
+        },
+        {
+            "query": "Domino's Pizza num\u00e9ro",
+            "link": "https://www.google.fr/search?num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&q=Domino%27s+Pizza+num%C3%A9ro&sa=X&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ1QJ6BAhkEAE",
+            "block_position": 21
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Du 20 au 26 septembre chez Domino's Pizza #Dominos ...",
+            "length": "0.11",
+            "source": "Facebook \u00b7 Domino's Pizza Puteaux",
+            "link": "https://www.facebook.com/DominosPuteaux/videos/dominos-pizza/500215815088664/",
+            "block_position": 15
+        },
+        {
+            "position": 2,
+            "title": "Cookies pizza #cedricgrolet #cookiepizza #parisdesserts ...",
+            "length": "1.28",
+            "source": "Instagram \u00b7 eatsbynatt",
+            "link": "https://www.instagram.com/reel/DNf00DjI90h/",
+            "block_position": 18
+        }
+    ],
+    "search_information": {
+        "original_query_yields_zero_results": false,
+        "total_results": 33000000
+    },
+    "pagination": {
+        "current": 123456789,
+        "next": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&ei=cTekaNquOZbQ1sQPqK-QwAs&start=20&sa=N&sstk=Ac65TH5G4hmx3-gxOqc4MdJYLnzir3oWPyQoilUVnws7zPAhvhrK_fRYGHJ0cv0iYrJ6A5NDmcZffsvwCjyYof3SpVPfIrGqFFUqFw&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ8NMDegQIXhAU",
+        "other_pages": [
+            {
+                "page": 2,
+                "link": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&ei=cTekaNquOZbQ1sQPqK-QwAs&start=20&sa=N&sstk=Ac65TH5G4hmx3-gxOqc4MdJYLnzir3oWPyQoilUVnws7zPAhvhrK_fRYGHJ0cv0iYrJ6A5NDmcZffsvwCjyYof3SpVPfIrGqFFUqFw&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ8tMDegQIXhAE"
+            },
+            {
+                "page": 3,
+                "link": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&ei=cTekaNquOZbQ1sQPqK-QwAs&start=40&sa=N&sstk=Ac65TH5G4hmx3-gxOqc4MdJYLnzir3oWPyQoilUVnws7zPAhvhrK_fRYGHJ0cv0iYrJ6A5NDmcZffsvwCjyYof3SpVPfIrGqFFUqFw&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ8tMDegQIXhAG"
+            },
+            {
+                "page": 4,
+                "link": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&ei=cTekaNquOZbQ1sQPqK-QwAs&start=60&sa=N&sstk=Ac65TH5G4hmx3-gxOqc4MdJYLnzir3oWPyQoilUVnws7zPAhvhrK_fRYGHJ0cv0iYrJ6A5NDmcZffsvwCjyYof3SpVPfIrGqFFUqFw&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ8tMDegQIXhAI"
+            },
+            {
+                "page": 5,
+                "link": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&ei=cTekaNquOZbQ1sQPqK-QwAs&start=80&sa=N&sstk=Ac65TH5G4hmx3-gxOqc4MdJYLnzir3oWPyQoilUVnws7zPAhvhrK_fRYGHJ0cv0iYrJ6A5NDmcZffsvwCjyYof3SpVPfIrGqFFUqFw&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ8tMDegQIXhAK"
+            },
+            {
+                "page": 6,
+                "link": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&ei=cTekaNquOZbQ1sQPqK-QwAs&start=100&sa=N&sstk=Ac65TH5G4hmx3-gxOqc4MdJYLnzir3oWPyQoilUVnws7zPAhvhrK_fRYGHJ0cv0iYrJ6A5NDmcZffsvwCjyYof3SpVPfIrGqFFUqFw&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ8tMDegQIXhAM"
+            },
+            {
+                "page": 7,
+                "link": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&ei=cTekaNquOZbQ1sQPqK-QwAs&start=120&sa=N&sstk=Ac65TH5G4hmx3-gxOqc4MdJYLnzir3oWPyQoilUVnws7zPAhvhrK_fRYGHJ0cv0iYrJ6A5NDmcZffsvwCjyYof3SpVPfIrGqFFUqFw&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ8tMDegQIXhAO"
+            },
+            {
+                "page": 8,
+                "link": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&ei=cTekaNquOZbQ1sQPqK-QwAs&start=140&sa=N&sstk=Ac65TH5G4hmx3-gxOqc4MdJYLnzir3oWPyQoilUVnws7zPAhvhrK_fRYGHJ0cv0iYrJ6A5NDmcZffsvwCjyYof3SpVPfIrGqFFUqFw&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ8tMDegQIXhAQ"
+            },
+            {
+                "page": 9,
+                "link": "https://www.google.fr/search?q=domino%E2%80%99s+pizza&num=20&sca_esv=4a7abaa8c9d72b6e&gl=fr&hl=fr&ei=cTekaNquOZbQ1sQPqK-QwAs&start=160&sa=N&sstk=Ac65TH5G4hmx3-gxOqc4MdJYLnzir3oWPyQoilUVnws7zPAhvhrK_fRYGHJ0cv0iYrJ6A5NDmcZffsvwCjyYof3SpVPfIrGqFFUqFw&ved=2ahUKEwiaq5n4u5aPAxUWqJUCHagXBLgQ8tMDegQIXhAS"
+            }
+        ],
+        "api_pagination": {
+            "next": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s%20pizza&location=Paris,Paris,Ile-de-France,France&device_type=mobile&google_domain=google.com&id=req0&page=2&num=20",
+            "other_pages": [
+                {
+                    "page": 2,
+                    "link": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s%20pizza&location=Paris,Paris,Ile-de-France,France&device_type=mobile&google_domain=google.com&id=req0&page=2&num=20"
+                },
+                {
+                    "page": 3,
+                    "link": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s%20pizza&location=Paris,Paris,Ile-de-France,France&device_type=mobile&google_domain=google.com&id=req0&page=3&num=20"
+                },
+                {
+                    "page": 4,
+                    "link": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s%20pizza&location=Paris,Paris,Ile-de-France,France&device_type=mobile&google_domain=google.com&id=req0&page=4&num=20"
+                },
+                {
+                    "page": 5,
+                    "link": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s%20pizza&location=Paris,Paris,Ile-de-France,France&device_type=mobile&google_domain=google.com&id=req0&page=5&num=20"
+                },
+                {
+                    "page": 6,
+                    "link": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s%20pizza&location=Paris,Paris,Ile-de-France,France&device_type=mobile&google_domain=google.com&id=req0&page=6&num=20"
+                },
+                {
+                    "page": 7,
+                    "link": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s%20pizza&location=Paris,Paris,Ile-de-France,France&device_type=mobile&google_domain=google.com&id=req0&page=7&num=20"
+                },
+                {
+                    "page": 8,
+                    "link": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s%20pizza&location=Paris,Paris,Ile-de-France,France&device_type=mobile&google_domain=google.com&id=req0&page=8&num=20"
+                },
+                {
+                    "page": 9,
+                    "link": "https://api.scaleserp.com/search?api_key=7DBDB86D1F6E42D3A5BB5FCA812BF503&q=domino%E2%80%99s%20pizza&location=Paris,Paris,Ile-de-France,France&device_type=mobile&google_domain=google.com&id=req0&page=9&num=20"
+                }
+            ]
+        }
+    }
+}
