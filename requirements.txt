@@ -1,2 +1,4 @@
-scrapy
 csv
+
+python-dotenv
+scrapy
